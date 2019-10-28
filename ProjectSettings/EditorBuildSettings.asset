@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Project/Scenes/menu.unity
+    guid: 7d48f21798477e546b6ea25a6be1d335
+  - enabled: 1
+    path: Assets/_Project/Scenes/ar-furniture.unity
+    guid: bd1d5aee7456f914db30bf9536205bb4
+  - enabled: 1
+    path: Assets/_Project/Scenes/ar-gondola.unity
+    guid: a28ffb6417f8bfe43885be692ba6c980
+  - enabled: 1
+    path: Assets/_Project/Scenes/ar-videos.unity
+    guid: 06525879b3107c747893a1848622bd56
